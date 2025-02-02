@@ -1,2 +1,2 @@
-# lAIwyer
+# LAIwyer
 personal assistant for law students
